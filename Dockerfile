@@ -1,7 +1,7 @@
 # Use official Node.js 14 as base image
 FROM  --platform=linux/amd64 node:18 AS build
 
-# Set working directory
+# Set working directory heeellooo
 WORKDIR /app
 
 # Set environment variable
