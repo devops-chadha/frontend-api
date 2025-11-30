@@ -1,0 +1,6 @@
+services:
+  front-app:
+    image: chouchenechadha/front-session15
+    container_name: front-app
+    ports:
+      -5002:80
